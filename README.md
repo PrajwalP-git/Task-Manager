@@ -1,4 +1,4 @@
-# React + Vite
+# A simple task management application used to add, edit, delete and update tasks. Done using react, django and sqlite(django's in-built db).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
